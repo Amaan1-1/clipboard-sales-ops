@@ -1,0 +1,114 @@
+[
+  {
+    "proposal_id": "create_bellhaven_at_union_square",
+    "facility_name": "Bellhaven at Union Square",
+    "action": "create_account",
+    "account_id": null,
+    "details": "Create new account for 'Bellhaven at Union Square' at 118 Union Square Dr, New Albany, OH.",
+    "reason": "Website facility missing from CRM."
+  },
+  {
+    "proposal_id": "reparent_001LGFPBJY4N9MB6KL",
+    "facility_name": "Bellhaven Crossings of Lima",
+    "action": "reparent_account",
+    "account_id": "001LGFPBJY4N9MB6KL",
+    "details": "Re-parent existing account 'Bellhaven Crossings of Lima' to 'Bellhaven Senior Living (Parent Account)'.",
+    "reason": "Does not meet both revenue and AR requirements for CHOW preservation."
+  },
+  {
+    "proposal_id": "create_bellhaven_of_batavia",
+    "facility_name": "Bellhaven of Batavia",
+    "action": "create_account",
+    "account_id": null,
+    "details": "Create new account for 'Bellhaven of Batavia' at 2000 Hospital Dr, Batavia, OH.",
+    "reason": "Website facility missing from CRM."
+  },
+  {
+    "proposal_id": "create_bellhaven_of_carlisle",
+    "facility_name": "Bellhaven of Carlisle",
+    "action": "create_account",
+    "account_id": null,
+    "details": "Create new account for 'Bellhaven of Carlisle' at 640 Walnut Bottom Rd, Carlisle, PA.",
+    "reason": "Website facility missing from CRM."
+  },
+  {
+    "proposal_id": "rename_001RJU1X4NBWC1Q0G7",
+    "facility_name": "Bellhaven of Chagrin Falls",
+    "action": "rename_account",
+    "account_id": "001RJU1X4NBWC1Q0G7",
+    "details": "Rename CRM account 'Riverbend Manor Care Center' to 'Bellhaven of Chagrin Falls'.",
+    "reason": "Website facility name differs but address matches exactly."
+  },
+  {
+    "proposal_id": "create_bellhaven_of_chesterton",
+    "facility_name": "Bellhaven of Chesterton",
+    "action": "create_account",
+    "account_id": null,
+    "details": "Create new account for 'Bellhaven of Chesterton' at 1250 NW Franklin Street, Chesterton, IN.",
+    "reason": "Website facility missing from CRM."
+  },
+  {
+    "proposal_id": "rename_001WR41PYNWXCAE2X4",
+    "facility_name": "Bellhaven of Kettering",
+    "action": "rename_account",
+    "account_id": "001WR41PYNWXCAE2X4",
+    "details": "Rename CRM account 'Kettering Care Centre' to 'Bellhaven of Kettering'.",
+    "reason": "Website facility name differs but address matches exactly."
+  },
+  {
+    "proposal_id": "reparent_001WR41PYNWXCAE2X4",
+    "facility_name": "Bellhaven of Kettering",
+    "action": "reparent_account",
+    "account_id": "001WR41PYNWXCAE2X4",
+    "details": "Re-parent existing account 'Kettering Care Centre' to 'Bellhaven Senior Living (Parent Account)'.",
+    "reason": "Does not meet both revenue and AR requirements for CHOW preservation."
+  },
+  {
+    "proposal_id": "chow_001A34WFSUYHCRBLFT",
+    "facility_name": "Bellhaven of Marietta",
+    "action": "chow_create_new_account",
+    "account_id": "001A34WFSUYHCRBLFT",
+    "details": "Preserve historical account 'Bellhaven of Marietta' (Rev: $51250.00, AR: $3800.00) under old parent 'Cedar Trail Communities (Parent Account)'. Create new account under 'Bellhaven Senior Living (Parent Account)'.",
+    "reason": "Account contains revenue AND AR history > 0. Preserve original ownership record."
+  },
+  {
+    "proposal_id": "chow_001U6RW32TY0WSXZZB",
+    "facility_name": "Bellhaven of Tiffin",
+    "action": "chow_create_new_account",
+    "account_id": "001U6RW32TY0WSXZZB",
+    "details": "Preserve historical account 'Bellhaven of Tiffin' (Rev: $84000.00, AR: $12400.00) under old parent 'Cedar Trail Communities (Parent Account)'. Create new account under 'Bellhaven Senior Living (Parent Account)'.",
+    "reason": "Account contains revenue AND AR history > 0. Preserve original ownership record."
+  },
+  {
+    "proposal_id": "rename_001H1JMVZWP46D5VUF",
+    "facility_name": "Bellhaven of Zanesville",
+    "action": "rename_account",
+    "account_id": "001H1JMVZWP46D5VUF",
+    "details": "Rename CRM account 'Cedar Trail of Zanesville' to 'Bellhaven of Zanesville'.",
+    "reason": "Website facility name differs but address matches exactly."
+  },
+  {
+    "proposal_id": "reparent_001H1JMVZWP46D5VUF",
+    "facility_name": "Bellhaven of Zanesville",
+    "action": "reparent_account",
+    "account_id": "001H1JMVZWP46D5VUF",
+    "details": "Re-parent existing account 'Cedar Trail of Zanesville' to 'Bellhaven Senior Living (Parent Account)'.",
+    "reason": "Does not meet both revenue and AR requirements for CHOW preservation."
+  },
+  {
+    "proposal_id": "rename_0017MN2JYAJBDS8WQZ",
+    "facility_name": "Bellhaven Willow Creek",
+    "action": "rename_account",
+    "account_id": "0017MN2JYAJBDS8WQZ",
+    "details": "Rename CRM account 'Sunny Acres Retirement Home' to 'Bellhaven Willow Creek'.",
+    "reason": "Website facility name differs but address matches exactly."
+  },
+  {
+    "proposal_id": "duplicate_001QU150PM4Z15UA71_to_001EGU7BMJ942ZTRE6",
+    "facility_name": "Bellhaven of Owosso",
+    "action": "mark_duplicate",
+    "account_id": "001QU150PM4Z15UA71",
+    "details": "Merge into survivor (001EGU7BMJ942ZTRE6). Mark this record Inactive.",
+    "reason": "Multiple CRM records with the exact same name."
+  }
+]
